@@ -1,9 +1,7 @@
-![NEXT JS developer](https://scontent.fdac120-1.fna.fbcdn.net/v/t39.30808-6/269834185_3042255506091779_2398314919612473789_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeG99ynEt4i6VfdcGX4x_8bvjUHmnsQUfa6NQeaexBR9rrx5rRix35uCMbr6ke76C_gNffHaAgBlvfurCtRtOQ_v&_nc_ohc=7wCZKwGlwsoAX_ItBZP&_nc_ht=scontent.fdac120-1.fna&oh=00_AfAQX7xl0jIOCAg0vgjDQF8R3Tz7FjJd8H5f4grF8oIp8Q&oe=63BEEADE)
-
 ### Hi there 👋, my name is S M Faisal.
-#### NEXT JS developer
+#### Problem Solver
 
-I am a recent graduate with a strong background in computer science. I have a deep understanding of data structures and algorithms, and have experience working with languages such as ASP.NET, Java, and C++. I am also an avid competitive programmer and excel at solving complex problems.
+I am a student of CSE 4th year. I have a deep understanding of data structures and algorithms, and have experience working with languages such as ASP.NET, Java, and C++. I am also an avid competitive programmer and excel at solving complex problems.
 
 I have a passion for technology and am always eager to learn new skills. I am a team player and excel in collaborative environments. In my previous roles, I have demonstrated strong problem-solving skills and the ability to work efficiently under pressure.
 
