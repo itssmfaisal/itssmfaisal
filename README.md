@@ -37,19 +37,9 @@ I'm currently working as a **Junior Software Engineer** at **Dhaka Popular Trave
 
 ## 📬 Connect with Me
 
-<p align="left">
-  <a href="https://facebook.com/itssmfaisal" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="Facebook" height="24" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/smfaisalaiubcse/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="24" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/smfaisalaiubcse" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" height="24" />
-  </a>
-</p>
+- [Facebook](https://facebook.com/itssmfaisal)
+- [LinkedIn](https://www.linkedin.com/in/smfaisalaiubcse/)
+- [GitHub](https://github.com/smfaisalaiubcse)
 
 ---
 
