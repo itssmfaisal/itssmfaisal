@@ -1,32 +1,53 @@
-### Hi there 👋, my name is S M Faisal.
-#### Problem Solver
+# 👋 Hi there, I’m S M Faisal
 
-I am a student of CSE 4th year. I have a deep understanding of data structures and algorithms, and have experience working with languages such as ASP.NET, Java, and C++. I am also an avid competitive programmer and excel at solving complex problems.
+### 💼 Junior Software Engineer | 🚀 Backend Developer | 🧠 Problem Solver
 
-I have a passion for technology and am always eager to learn new skills. I am a team player and excel in collaborative environments. In my previous roles, I have demonstrated strong problem-solving skills and the ability to work efficiently under pressure.
+I'm currently working as a **Junior Software Engineer** at **Dhaka Popular Travels Ltd.**, contributing to scalable B2B flight and ticketing systems. I specialize in backend development with **Spring Boot**, **Java**, and **Laravel**, and have hands-on experience integrating complex APIs like **Amadeus**, **Sabre**, **Flydubai**, and **Emirates**.
 
-I am excited to bring my skills and experience to a new challenge, and am eager to make a positive impact in my next role.
+---
 
-Skills: DSA, ASP.NET, JAVA, C++
+## 🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Artificial Intelligence 
+**Languages & Frameworks**  
+`Java`, `Spring Boot`, `Laravel (PHP)`, `C++`, `C`, `ASP.NET`, `JavaScript`
 
+**Databases & Tools**  
+`MySQL`, `PostgreSQL`, `Spring JDBC`, `JPA`, `JWT`, `Docker`, `Git`, `Postman`, `MailHog`
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/smfaisalaiubcse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/smfaisal48406/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@smfaisal5395)  
+**Others**  
+`REST API Development`, `JWT Authentication`, `Spring AOP`, `Microservice Design`, `Linux`, `Team Collaboration`, `Competitive Programming`
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=smfaisalaiubcse)](https://github.com/ryo-ma/github-profile-trophy)
+## 🚀 What I’m Currently Working On
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smfaisalaiubcse)](https://github.com/anuraghazra/github-readme-stats)
+- ✈️ B2B Flight Booking & Ticketing system with multiple GDS integrations  
+- 🚌 Bus Ticket Booking System (Spring Boot + JWT + AOP + JDBC)  
+- 🤖 Learning AI and ML fundamentals
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=smfaisalaiubcse&show_icons=true&count_private=true)  
+---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=smfaisalaiubcse)  
+## 📊 GitHub Stats
 
-![GitHub metrics](https://metrics.lecoq.io/smfaisalaiubcse)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=smfaisalaiubcse)](https://github.com/smfaisalaiubcse)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smfaisalaiubcse&layout=compact)](https://github.com/smfaisalaiubcse)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smfaisalaiubcse&show_icons=true&count_private=true)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=smfaisalaiubcse)  
+---
 
-![Profile views](https://gpvc.arturio.dev/smfaisalaiubcse)  
+## 📬 Connect with Me
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="25">](https://facebook.com/smfaisal48406)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="25">](https://www.linkedin.com/in/smfaisalaiubcse/)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="25">](https://github.com/smfaisalaiubcse)
+
+---
+
+## 🏆 Achievements
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=smfaisalaiubcse&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+_Always open to learning, contributing, and building something impactful._  
+📧 **Email**: smfaisal48406@gmail.com
