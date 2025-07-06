@@ -37,10 +37,8 @@ I'm currently working as a **Junior Software Engineer** at **Dhaka Popular Trave
 
 ## 📬 Connect with Me
 
-## 📬 Connect with Me
-
 <p align="left">
-  <a href="https://facebook.com/smfaisal48406" target="_blank">
+  <a href="https://facebook.com/itssmfaisal" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="Facebook" height="24" />
   </a>
   &nbsp;
