@@ -27,25 +27,11 @@ I'm currently working as a **Junior Software Engineer** at **Dhaka Popular Trave
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=smfaisalaiubcse)](https://github.com/smfaisalaiubcse)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smfaisalaiubcse&layout=compact)](https://github.com/smfaisalaiubcse)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smfaisalaiubcse&show_icons=true&count_private=true)
-
----
-
 ## 📬 Connect with Me
 
 - [Facebook](https://facebook.com/itssmfaisal)
 - [LinkedIn](https://www.linkedin.com/in/s-m-faisal/)
 - [GitHub](https://github.com/smfaisalaiubcse)
-
----
-
-## 🏆 Achievements
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=smfaisalaiubcse&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
